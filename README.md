@@ -1,5 +1,5 @@
 <h1 align="center">kkeyy</h1>
-<h3 align="center">Backend/Frontend Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkeyy-hash&theme=dark" alt="kkeyy-hash" />

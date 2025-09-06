@@ -5,13 +5,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkeyy-hash&theme=dark" alt="kkeyy-hash" />
 </p>
 
-
-<p align="center">
-  <a href="https://discord.com/users/1405623813865078868">
-    <img src="https://lanyard.cnrad.dev/api/1405623813865078868?theme=dark&hideSpotify=true&hideDecoration=true&showDisplayName=true&hideTimestamp=true&hideBadges=true&animatedDecoration=false" />
-  </a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://lua.org/" target="_blank" rel="noreferrer"> 

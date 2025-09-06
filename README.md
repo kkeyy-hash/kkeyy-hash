@@ -1,5 +1,5 @@
 <h1 align="center">kkeyy</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Software Engineer | Reverse Engineer | Full-Stack Developer</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkeyy-hash&theme=dark" alt="kkeyy-hash" />
@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <a href="https://discord.com/users/773173302549413960">
-    <img src="https://lanyard.cnrad.dev/api/773173302549413960">
+  <a href="https://discord.com/users/1405623813865078868">
+    <img src="https://lanyard.cnrad.dev/api/1405623813865078868?theme=dark&hideSpotify=true&hideDecoration=true&showDisplayName=true&hideTimestamp=true&hideBadges=true&animatedDecoration=false" />
   </a>
 </p>
 
@@ -17,13 +17,17 @@
   <a href="https://lua.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> 
   </a> 
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
-  
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 

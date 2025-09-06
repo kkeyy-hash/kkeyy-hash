@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Reverse Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkeyy-hash&theme=dark" alt="kkeyy-hash" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kkeyy-hash&theme=dark&hide_border=true&border_radius=20" alt="GitHub Streak" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

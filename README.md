@@ -2,13 +2,14 @@
 <h3 align="center">Software Engineer | Reverse Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  Hey, I'm <b>kkeyy</b> — a 17 y/o self-taught Software Engineer, Reverse Engineer & Full-Stack Developer from Germany.  
+  Hey, I'm <b>kkeyy</b> — a 17 y/o self-taught Software Engineer, Reverse Engineer & Full-Stack Developer from Germany.
 </p>
 
 <p align="center">
-  I wrote my first lines of code at 10 and never really stopped from then on.  
-  Over the years, I moved from small scripts to building entire projects, experimenting with game modifications,  
-  and diving deep into bypassing Anti-Tamper and Anti-Cheat solutions like <b>Easy Anti-Cheat</b>, <b>BattlEye</b>, and <b>Hyperion</b>.  
+  I wrote my first lines of code at 10 and never really stopped.  
+  What began with small scripts grew into full projects, game modifications,  
+  and eventually exploring and bypassing Anti-Tamper & Anti-Cheat systems like  
+  <b>Easy Anti-Cheat</b>, <b>BattlEye</b>, and <b>Hyperion</b>.
 </p>
 
 <p align="center">

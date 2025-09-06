@@ -2,9 +2,13 @@
 <h3 align="center">Software Engineer | Reverse Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  Hello, I'm kkeyy. 
-  I'm 17 years old and a self-taught Software Engineer, Reverse Engineer & Full-Stack Developer located in German.
-  I started coding as a hobby when I was only 10 years old. Since then I have advanced my skills into various programming languages and started developing external and internal modification tools to gain advantages within games, educating myself to bypass Anti-Cheats and Anti-Tampers like Easy-Anticheat, BattlEye and Hyperion.
+  Hey, I'm <b>kkeyy</b> — a 17 y/o self-taught Software Engineer, Reverse Engineer & Full-Stack Developer from Germany.  
+</p>
+
+<p align="center">
+  I wrote my first lines of code at 10 and never really stopped from then on.  
+  Over the years, I moved from small scripts to building entire projects, experimenting with game modifications,  
+  and diving deep into bypassing Anti-Tamper and Anti-Cheat solutions like <b>Easy Anti-Cheat</b>, <b>BattlEye</b>, and <b>Hyperion</b>.  
 </p>
 
 <p align="center">

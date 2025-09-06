@@ -2,6 +2,12 @@
 <h3 align="center">Software Engineer | Reverse Engineer | Full-Stack Developer</h3>
 
 <p align="center">
+  Hello, I'm kkeyy. 
+  I'm 17 years old and a self-taught Software Engineer, Reverse Engineer & Full-Stack Developer located in German.
+  I started coding as a hobby when I was only 10 years old. Since then I have advanced my skills into various programming languages and started developing external and internal modification tools to gain advantages within games, educating myself to bypass Anti-Cheats and Anti-Tampers like Easy-Anticheat, BattlEye and Hyperion.
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kkeyy-hash&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
 </p>
 
